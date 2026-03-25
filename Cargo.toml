@@ -1,0 +1,11 @@
+[package]
+name = "rustycrypt"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+aes-gcm = "0.10"
+rand = "0.8"
+anyhow = "1.0" # Für einfacheres Error-Handling
+indicatif = "0.18.4"

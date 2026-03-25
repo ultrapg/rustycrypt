@@ -1,0 +1,11 @@
+[package]
+name = "token_gen"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+rand = "0.8"
+hex = "0.4"
+base64 = "0.21"
+indicatif = "0.18.4"

@@ -13,7 +13,7 @@
   - Safety First: Built with Rust’s memory safety guarantees.
 ---
 ### Installation
-**download release:**
+**download latest release:**
 
 https://github.com/ultrapg/rustycrypt/releases/tag/v1.0.0
 

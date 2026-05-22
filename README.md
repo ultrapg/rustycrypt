@@ -64,3 +64,7 @@ Decrypt a File
   - indicatif: Terminal progress reporting.
 
   - anyhow: Flexible error handling.
+
+## License
+
+GNU General Public License v3.0

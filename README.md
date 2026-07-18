@@ -21,7 +21,7 @@ https://github.com/ultrapg/rustycrypt/releases/tag/v1.0.0
 
   Clone the repository:
   ```
-  git clone https://github.com/yourusername/rustycrypt.git
+  git clone https://github.com/ultrapg/rustycrypt.git
   cd rustycrypt
   ```
   Build the release version:
